@@ -364,7 +364,7 @@ For questions or issues:
 - 📧 Email: ibrahimtarek1245@gmail.com
 - 📚 Documentation: [Wiki](https://github.com/at264939-ctrl/Healthcar-Agent/wiki)
 - 🐛 Bug Reports: [GitHub Issues](https://github.com/at264939-ctrl/Healthcar-Agent/issues)
-- ## Support
+- ## Support me
 If you find this Healthcare Agent project useful, please consider supporting its development:
 
 [![Support via PayPal](https://www.paypal.com/ncp/payment/FYTDX2XYNGAJ8)]
