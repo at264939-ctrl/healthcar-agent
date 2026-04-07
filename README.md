@@ -364,11 +364,15 @@ For questions or issues:
 - 📧 Email: ibrahimtarek1245@gmail.com
 - 📚 Documentation: [Wiki](https://github.com/at264939-ctrl/Healthcar-Agent/wiki)
 - 🐛 Bug Reports: [GitHub Issues](https://github.com/at264939-ctrl/Healthcar-Agent/issues)
-- ## Support me
-If you find this Healthcare Agent project useful, please consider supporting its development:
+---
 
-[![Support via PayPal](https://www.paypal.com/ncp/payment/FYTDX2XYNGAJ8)]
+## Support me☕
 
+If you find this project helpful and would like to support its development, you can buy me a coffee via PayPal. Your support is greatly appreciated!
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/ncp/payment/FYTDX2XYNGAJ8)
+
+---
 ---
 
 ## 🙏 Acknowledgments
